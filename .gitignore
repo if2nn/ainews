@@ -1,0 +1,7 @@
+.env
+keys.env
+output/
+_build/
+node_modules/
+__pycache__/
+*.pyc
